@@ -1,2 +1,4 @@
-# recover-CS50-
-Recovering images
+# recover (CS50)
+
+##### CS50 Week 4 Problem Set
+* Recovering images
